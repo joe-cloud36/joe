@@ -1,0 +1,73 @@
+<html>
+
+<head>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+
+
+
+</head>
+
+
+
+
+
+<body>
+
+<center>
+<img src="imeges/sience.png" width="200px"/>
+
+
+<hr/>
+
+
+<a href="index.html">Home</a>
+<a href="biology.html">Biology</a>
+<a href="molecules.html">Molucules</a>
+<a href="aboutme.html">about me</a>
+
+</cenrer>
+<hr/>
+
+<strong><center><h2>Atoms</h2></center></strong>
+Everything is made from atoms, including you. Atoms are tiny particles that are far too small to see, even with a microscope. If people were the same size as atoms, the entire population of the world would fit into a box about a thousandth of a millimetre across.
+
+We usually imagine atoms as being like tiny balls:
+
+
+
+
+   <h2><p><strong>Elements</strong></P></h2>
+There are over a hundred different elements. The atoms in a particular element are the same as each other, and they are different from the atoms of all other elements. For example, lead and gold are elements. A piece of pure gold contains only gold atoms. A piece of pure lead contains only lead atoms.
+
+The atoms of some elements do not join together, but instead they stay as separate atoms. Helium is like this. The atoms of other elements, such as hydrogen and oxygen, join together to make molecules.
+
+
+
+
+
+
+
+
+
+<iframe width="420" height="315"
+src="http://www.youtube.com/embed/DW0jaQPS2lk">
+</iframe>
+
+
+</body>
+
+
+
+
+
+
+</html>
