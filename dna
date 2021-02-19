@@ -1,0 +1,71 @@
+<html>
+
+
+<head>
+<title>
+DNA
+</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+
+</head>
+
+<body>
+<center>
+<img src="imeges/sience.png" width="200px"/>
+
+
+<hr/>
+
+
+<a href="index.html">Home</a>
+<a href="biology.html">Biology</a>
+<a href="molecules.html">Molucules</a>
+<a href="aboutme.html">about me</a>
+
+</cenrer>
+<hr/>
+<a href="index.html"><img src="imeges/dnabanner.jpg" width="100%"/></a>
+
+
+
+
+
+
+    <center><strong><h2>DNA</h2></strong></center>
+DNA stands for deoxyribonucleic acid. It is a chemical made up of two long molecules. The molecules are arranged in a spiral, like a twisted ladder. We call this the double helix structure.
+
+There is DNA in the nucleus of every cell. DNA carries genetic information. It has all the instructions that a living organism needs to grow, reproduce and function.
+
+
+<p><strong>Genes</strong> -are short sections of DNA. Genes carry information for particular characteristics, such as ear shape or eye colour. Different sets of genes carry information for different characteristics. There are many genes in a chromosome.</p>
+
+<strong>Chromosomes</strong>-In a cell nucleus, DNA is organised into coiled strands called chromosomes.
+
+Humans have 46 chromosomes in each cell. The fruit fly has only 8 chromosomes and is often used to study patterns of inheritance, while red king crabs have a whopping 208!
+
+Half the chromosomes are inherited from one parent and half from the other. As humans, therefore, we have 23 chromosomes from each parent.
+
+This explains why organisms can share characteristics from both parents. A child, for example, might have red hair like their dad and long fingers like their mum.
+
+How do forensic scientists use DNA?
+Every human has unique DNA (except for identical twins who share the same DNA, as they both came from the same initial cell). Forensic scientists use the unique nature of DNA to help catch criminals.
+
+They collect human cells left at a crime scene, perhaps from blood, saliva or hair. The forensic scientists then extract DNA from the cells, analyse it and make a DNA profile.
+
+The DNA profile is then checked against a database of other profiles. If there is a match, it could be used as evidence.
+
+
+
+
+
+</body>
+
+
+</html>
