@@ -1,0 +1,72 @@
+</html>
+
+
+
+<head>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+
+
+<body>
+
+
+
+
+<center>
+<img src="imeges/sience.png" width="200px"/>
+
+
+<hr/>
+
+
+<a href="index.html">Home</a>
+<a href="biology.html">Biology</a>
+<a href="molecules.html">Molecules</a>
+<a href="aboutme.html">about me</a>
+
+
+<hr/>
+
+<img src="imeges/banner4.jpg" width="100%"/>
+</center>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Atoms</h3>
+<a href="atoms.html"><img src="imeges/moli.jpg" width="400px"/></a>
+<a class="btn btn-danger" href="atoms.html">Read More </a>
+      <p>clik here to learn about atoms </p>
+    </div>
+    <div class="col-sm-4">
+</div>
+    <div class="col-sm-4">
+      <h3>What are molecules</h3>
+
+<a href="whataremolecules.html"><img src="imeges/molecules.png" width="400px"/></a>
+<a class="btn btn-danger" href="whatsremolecules.html">Read More </a>
+ 
+      <p>this is molecules</p>
+    </div>
+   
+  </div>
+</div>
+</div>
+
+</div>
+
+     
+
+</body>
+
+
+
+<html>
